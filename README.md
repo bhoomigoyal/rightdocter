@@ -11,8 +11,8 @@
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/project-name.git
-cd project-name
+git clone [https://github.com/yourusername/project-name.git](https://github.com/bhoomigoyal/rightdocter)
+cd rightdocter
 
 
 In the backend directory, run the following commands:
