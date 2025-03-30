@@ -11,7 +11,7 @@
 Clone the repository to your local machine:
 
 ```bash
-git clone [https://github.com/yourusername/project-name.git](https://github.com/bhoomigoyal/rightdocter)
+git clone https://github.com/bhoomigoyal/rightdocter.git
 cd rightdocter
 
 
